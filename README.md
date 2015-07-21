@@ -5,7 +5,7 @@ CKEditor Dialog for Drupal 8
 This plugin helps to create a "representative" (image with styles) for certain elements which have problem with living in editable, it provides the [API](http://docs.ckeditor.com/#!/api/CKEDITOR.editor-method-createFakeElement) to transform an real DOM element into the "fake" one, and to restore the real element from the fake one on the output.
 ### Installation
 
-Download the [Ckeditor Dialog Plugin](https://github.com/ol0lll/ckeditor_dialog) module, put it into the modules folder, then enable it.
+Download the [Ckeditor FakeObjects Plugin](https://github.com/ol0lll/ckeditor_fakeobjects) module, put it into the modules folder, then enable it.
 
 ### License
 
