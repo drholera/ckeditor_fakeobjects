@@ -1,4 +1,4 @@
-CKEditor FakeObjects for Drupal 8
+CKEditor FakeObjects plugin for Drupal 8
 -----------------------------------
 
 

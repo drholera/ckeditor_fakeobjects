@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Definition of \Drupal\ckeditor_fakeobjects\Plugin\CKEditorPlugin\Dialog.
+ * Definition of \Drupal\ckeditor_fakeobjects\Plugin\CKEditorPlugin\FakeObjects.
  */
 namespace Drupal\ckeditor_fakeobjects\Plugin\CKEditorPlugin;
 use Drupal\ckeditor\CKEditorPluginInterface;
