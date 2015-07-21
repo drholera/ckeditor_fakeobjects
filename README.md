@@ -1,4 +1,4 @@
-CKEditor Dialog for Drupal 8
+CKEditor FakeObjects for Drupal 8
 -----------------------------------
 
 
