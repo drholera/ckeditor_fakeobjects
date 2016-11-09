@@ -1,0 +1,12 @@
+{
+  "name": "drholera/ckeditor_fakeobjects",
+  "description": "Displays CKeditor fakaobject",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Volker Killesreiter",
+      "homepage": "https://github.com/ol0lll/"
+    }
+  ],
+  "license": "GPL-2.0+"
+}
